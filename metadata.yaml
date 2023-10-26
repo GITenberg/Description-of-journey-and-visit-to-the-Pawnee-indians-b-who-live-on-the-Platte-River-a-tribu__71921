@@ -1,0 +1,32 @@
+_repo: Description-of-journey-and-visit-to-the-Pawnee-indians-b-who-live-on-the-Platte-River-a-tribu__71921
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Oehler, Gottlieb F.
+    gutenberg_agent_id: '56414'
+    url: http://www.gutenberg.org/2009/agents/56414
+  - agent_name: Smith, David Z.
+    alias: Smith, D. Z. (David Z.)
+    gutenberg_agent_id: '56457'
+    url: http://www.gutenberg.org/2009/agents/56457
+description: ''
+gutenberg_issued: '2023-10-20'
+identifiers:
+  gutenberg: '71921'
+  lccn: '16009253'
+language: en
+pgterms:marc905: 20230829154813oehler
+pgterms:marc906: '1851'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive).
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pawnee Indians'
+- !lcc 'E011'
+- GITenberg
+title: 'Description of journey and visit to the Pawnee indians : $b who live on the
+  Platte River, a tributary to the Missouri'
+url: http://www.gutenberg.org/ebooks/71921
