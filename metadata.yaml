@@ -1,5 +1,8 @@
 _repo: Description-of-journey-and-visit-to-the-Pawnee-indians-b-who-live-on-the-Platte-River-a-tribu__71921
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71921-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Oehler, Gottlieb F.
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '56457'
     url: http://www.gutenberg.org/2009/agents/56457
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71921#Description-of-journey-and-visit-to-the-Pawnee-indians-b-who-live-on-the-Platte-River-a-tribu_
 gutenberg_issued: '2023-10-20'
 identifiers:
   gutenberg: '71921'
